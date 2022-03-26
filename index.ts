@@ -1,3 +1,8 @@
+// Primer proyecto de TypeScript fue muy increible 
+// Estoy muy orgulloso de mi aprendizaje 
+
+
+
 import { question } from "readline-sync";
 
 
